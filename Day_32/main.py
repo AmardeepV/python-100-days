@@ -2,7 +2,6 @@ import smtplib
 import datetime as dt
 import random
 import pandas as pd
-import time
 import os
 
 password = os.environ.get("GMAIL_PYTHON_PASSWORD")

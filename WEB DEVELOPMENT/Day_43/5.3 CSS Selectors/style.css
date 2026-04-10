@@ -1,0 +1,47 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+/* element tags 
+h1 {
+  color: blue;
+}
+
+//class selector, class = red-heading, can be applied to all html elements
+.red-heading{
+  color: blue;
+}
+
+//id selector , id = main, can be applied to only one html elements
+#main {
+  color: red;
+}
+
+//Attribute selector draggable="true" 
+p[draggable]{
+  color: red;
+}
+
+//universal selector 
+*{
+  color: red;
+}
+*/
+p{
+  color: red;
+}
+.note{
+  font-size: 20px;
+}
+#id-selector-demo{
+  color: green;
+}
+li[value = "4"]{
+  color: blue;
+}
+*{
+  text-align: center;
+}
